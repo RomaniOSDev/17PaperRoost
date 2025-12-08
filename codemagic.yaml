@@ -7,7 +7,7 @@ workflows:
         vars:
           XCODE_WORKSPACE: "17PaperRoost.xcworkspace"
           XCODE_SCHEME: "17PaperRoost"
-          BUNDLE_ID: "om.arc.st4g5p1pr0st"
+          BUNDLE_ID: "com.arc.st4g5p1pr0st"
           APP_STORE_APP_ID: 6755233676
         xcode: latest
         cocoapods: 1.14.2
